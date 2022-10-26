@@ -1,11 +1,11 @@
 # Ex-06-Feature-Transformation
-## AIM:
+# AIM:
 To read the given data and perform Feature Transformation process and save the data to a file.
 
-## EXPLANATION:
+# EXPLANATION:
 Feature Transformation is a technique by which we can boost our model performance. Feature transformation is a mathematical transformation in which we apply a mathematical formula to a particular column(feature) and transform the values which are useful for our further analysis.
 
-## ALGORITHM:
+# ALGORITHM:
 ## Step 1:
 Read the given Data
 
@@ -18,7 +18,7 @@ Apply Feature Transformation techniques to all the features of the data set
 ## Step 4: 
 Save the data to the file
 
-## PROGRAM:
+# PROGRAM:
 ```
 Name : Yuvadarshini S
 Register Number : 212221230126
@@ -72,9 +72,9 @@ sm.qqplot(df5['ModerateNegativeSkew_2'],line='45')
 plt.show()
 
 ```
-## OUTPUT:
+# OUTPUT:
 
-### Feature Transformation - Data_to_Transform.csv:
+## Feature Transformation - Data_to_Transform.csv:
 
 ![output](i1.jpg)
 ![output](i2.jpg)
@@ -82,22 +82,22 @@ plt.show()
 ![output](i4.jpg)
 ![output](i5.jpg)
 
-### Log Transformation:
+## Log Transformation:
 
 ![output](i6.jpg)
-### Reciprocal Transformation:
+## Reciprocal Transformation:
 
 ![output](i7.jpg)
-### SquareRoot Transformation:
+## SquareRoot Transformation:
 
 ![output](i8.jpg)
-### Power Transformation:
+## Power Transformation:
 
 ![output](i9.jpg)
 ![output](i10.jpg)
-### Quantile Transformation:
+## Quantile Transformation:
 
 ![output](i11.jpg)
 
-## RESULT:
+# RESULT:
 Thus the Feature Transformation for the given datasets had been executed successfully.
